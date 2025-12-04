@@ -1,11 +1,11 @@
 # 🐶 Mój pies Charlie
 
-<!-- Tu możesz dodać zdjęcie: ![Charlie](img/charlie.jpg) -->
+![Charlie](piesek.jpg)
 
 Charlie to mój ukochany pies – 14-letni kundelek o czarno-podpalanej maści.  
 Mimo wieku wciąż jest bardzo energiczny, zdrowy i zawsze ma dobry humor.
 
-## 📌 Informacje o Charliem
+## 📌 Informacje o Charlim
 
 - **Rasa:** Kundelek  
 - **Maść:** czarno-podpalana  
@@ -32,15 +32,13 @@ Takie zabawy utrzymują go w świetnej kondycji psychicznej i fizycznej.
 
 ## 🗂 Zawartość repozytorium
 
-W repo znajdują się pliki opisujące informacje o Charliem w różnych formatach:
+W repo znajdują się pliki opisujące informacje o Charliego w różnych formatach:
 
-- `index.html` – strona internetowa  
+- `charlie.html` – strona internetowa  
 - `charlie.xml` – dane XML  
-- `charlie.xsd` – schema XML  
+- `charlie.xsd` – schema XML (XSD) 
 - `charlie.json` – plik JSON  
-- `charlie.csv` – tabela aktywności  
+- `charlie.csv` – tabela aktywności
+- `piesek.jpg` - zdjęcie pieska
 - `README.md` – opis repo (ten plik)
-
-## 📸 Zdjęcia
-
-Zdjęcia możesz wrzucić do folderu **img** i w kodzie zastąpić komentarze właściwymi odnośnikami.
+  
