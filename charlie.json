@@ -1,0 +1,19 @@
+{
+    "name": "Charlie",
+    "breed": "Kundelek",
+    "color": "czarno-podpalana",
+    "age": 14,
+    "healthy": true,
+    "description": "Bardzo żwawy, zdrowy i zawsze ucieszony.",
+    "activities": [
+        "Zabawa piłką",
+        "Aportowanie",
+        "Chodzenie na spacery"
+    ],
+    "commands": [
+        "Siad",
+        "Aport",
+        "Do mnie"
+    ],
+    "photo": "piesek.jpg"
+}

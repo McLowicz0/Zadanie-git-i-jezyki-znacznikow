@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="dog">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="name" type="xsd:string"/>
+                <xsd:element name="breed" type="xsd:string"/>
+                <xsd:element name="color" type="xsd:string"/>
+                <xsd:element name="age" type="xsd:integer"/>
+
+                <xsd:element name="health">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="isHealthy" type="xsd:boolean"/>
+                            <xsd:element name="description" type="xsd:string"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+
+                <xsd:element name="activities">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="activity" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+
+                <xsd:element name="commands">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="command" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>

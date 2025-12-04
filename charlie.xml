@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="charlie.xsd">
+
+
+    <name>Charlie</name>
+    <breed>Kundelek</breed>
+    <color>czarno-podpalana</color>
+    <age>14</age>
+
+    <health>
+        <isHealthy>true</isHealthy>
+        <description>Bardzo żwawy, zdrowy i zawsze ucieszony.</description>
+    </health>
+
+    <activities>
+        <activity>Zabawa piłką</activity>
+        <activity>Aportowanie</activity>
+        <activity>Chodzenie na spacery</activity>
+    </activities>
+
+    <commands>
+        <command>Siad</command>
+        <command>Aport</command>
+        <command>Do mnie</command>
+    </commands>
+</dog>
