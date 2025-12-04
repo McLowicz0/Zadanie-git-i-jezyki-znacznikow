@@ -1,8 +1,8 @@
-# 🐶 Mój pies Charlie
+# 🐶 Mój piesek Charlie
 
 ![Charlie](piesek.jpg)
 
-Charlie to mój ukochany pies – 14-letni kundelek o czarno-podpalanej maści.  
+Charlie to mój ukochany piesek – 14-letni kundelek o czarno-podpalanej maści.  
 Mimo wieku wciąż jest bardzo energiczny, zdrowy i zawsze ma dobry humor.
 
 ## 📌 Informacje o Charlim
@@ -16,19 +16,9 @@ Mimo wieku wciąż jest bardzo energiczny, zdrowy i zawsze ma dobry humor.
 
 - Zabawa piłką  
 - Aportowanie  
-- Gonienie patyków  
-- Interaktywne gry węchowe  
-- Chowanego  
+- Gonienie patyków   
 
-## 🎮 Gry i aktywności
-
-Charlie uwielbia gry rozwijające inteligencję, np.:
-
-- maty węchowe  
-- zabawki typu *kong* z przysmakami  
-- krótkie szkoleniowe sesje komend  
-
-Takie zabawy utrzymują go w świetnej kondycji psychicznej i fizycznej.
+Takie zabawy utrzymują go w świetnej kondycji fizycznej.
 
 ## 🗂 Zawartość repozytorium
 
