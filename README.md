@@ -49,7 +49,7 @@ Repozytorium zawiera dane opisujące Charliego.
 | Plik | Format | Cel / Funkcja |
 | :--- | :--- | :--- |
 | `charlie.html` | **HTML** | Prezentacja danych w formie strony internetowej. |
-| `charlie.json` | **JSON** | Lekki, uniwersalny format do wymiany danych (API-ready). |
+| `charlie.json` | **JSON** | Uniwersalny format do wymiany danych. |
 | `charlie.xml` | **XML** | Hierarchiczne dane strukturalne. |
 | `charlie.xsd` | **XSD** | Schema opisująca poprawną strukturę pliku `charlie.xml`. |
 | `charlie.csv` | **CSV** | Tabela danych aktywności. |
